@@ -1,0 +1,13 @@
+/* This is our style for the invalid fields */
+.invalid{
+  border-color: #9900009c !important;
+  box-shadow: 0 0 0 0.25rem #FDD !important;
+}
+
+/* This is the style of our error messages */
+.error {
+  padding: 0;
+  font-size: 80%;
+  color: #900;
+}
+
